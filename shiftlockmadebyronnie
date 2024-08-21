@@ -13,8 +13,8 @@ ShiftlockStarterGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 ShiftlockStarterGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "ronnie.fx#8718 .gg/productions";
-    Text = "subscribe to RonnieEditz";
+    Title = "scriptmadebyronnie add my discord rsqq join our main server for IOS hacks .gg/productions";
+    Text = "follow my roblox its in my discord bio";
 
 })
 
